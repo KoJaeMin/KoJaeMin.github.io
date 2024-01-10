@@ -6,12 +6,20 @@
         <description>Recent content on Jaemin&#39;s blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Tue, 02 Jan 2024 23:55:20 +0900</lastBuildDate><atom:link href="https://kojaemin.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Test</title>
-        <link>https://kojaemin.github.io/posts/test/</link>
-        <pubDate>Tue, 02 Jan 2024 23:55:20 +0900</pubDate>
+        <lastBuildDate>Wed, 10 Jan 2024 22:04:56 +0900</lastBuildDate><atom:link href="https://kojaemin.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Hooks</title>
+        <link>https://kojaemin.github.io/p/hooks/</link>
+        <pubDate>Wed, 10 Jan 2024 22:04:56 +0900</pubDate>
         
-        <guid>https://kojaemin.github.io/posts/test/</guid>
+        <guid>https://kojaemin.github.io/p/hooks/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Archives</title>
+        <link>https://kojaemin.github.io/archives/</link>
+        <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://kojaemin.github.io/archives/</guid>
         <description></description>
         </item>
         <item>
@@ -20,6 +28,14 @@
         <pubDate>Tue, 02 Jan 2024 23:35:40 +0900</pubDate>
         
         <guid>https://kojaemin.github.io/readme/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Search</title>
+        <link>https://kojaemin.github.io/search/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://kojaemin.github.io/search/</guid>
         <description></description>
         </item>
         
